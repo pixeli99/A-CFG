@@ -6,12 +6,10 @@
 [Pengxiang&nbsp;Li](#)<sup>1†</sup>,
 [Shilin&nbsp;Yan](#)<sup>2†♠</sup>,
 [Joey&nbsp;Tsai](#)<sup>3</sup>,
-[Ray&nbsp;Zhang](#)<sup>4</sup>,
+[Renrui&nbsp;Zhang](#)<sup>4</sup>,
 [Ruichuan&nbsp;An](#)<sup>5</sup>,  
 [Ziyu&nbsp;Guo](#)<sup>4</sup>,
 [Xiaowei&nbsp;Gao](#)<sup>6‡</sup>
-
-<br>
 
 <sup>1</sup>DUT  <sup>2</sup>Fudan  <sup>3</sup>Tsinghua  <sup>4</sup>CUHK  <sup>5</sup>PKU  <sup>6</sup>ICL
 
@@ -27,10 +25,10 @@
   <a href="https://github.com/pixeli99/A-CFG">
     <img src="https://img.shields.io/badge/Code-GitHub-2b3137?style=flat&logo=github&logoColor=white">
   </a>
-  <a href="https://arxiv.org/abs/2505.XXXXX">
-    <img src="https://img.shields.io/badge/arXiv-2505.XXXXX-b31b1b?style=flat&logo=arXiv&logoColor=white">
+  <a href="https://arxiv.org/abs/2505.20199">
+    <img src="https://img.shields.io/badge/arXiv-2505.20199-b31b1b?style=flat&logo=arXiv&logoColor=white">
   </a>
-  <a href="https://arxiv.org/pdf/2505.XXXXX">
+  <a href="https://arxiv.org/pdf/2505.20199">
     <img src="https://img.shields.io/badge/Paper-PDF-f6c700?style=flat&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
