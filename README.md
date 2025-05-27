@@ -3,15 +3,15 @@
 
 <h3>Adaptive Classifier-Free Guidance via Dynamic Low-Confidence Masking</h3>
 
-[Pengxiang&nbsp;Li](#)<sup>1†</sup>,
-[Shilin&nbsp;Yan](#)<sup>2†♠</sup>,
+[Pengxiang&nbsp;Li](https://scholar.google.com/citations?user=rUp_4RgAAAAJ&hl=en)<sup>1†</sup>,
+[Shilin&nbsp;Yan](https://scholar.google.com/citations?user=2VhjOykAAAAJ&hl=zh-CN)<sup>2†♠</sup>,
 [Joey&nbsp;Tsai](#)<sup>3</sup>,
-[Renrui&nbsp;Zhang](#)<sup>4</sup>,
-[Ruichuan&nbsp;An](#)<sup>5</sup>,  
-[Ziyu&nbsp;Guo](#)<sup>4</sup>,
-[Xiaowei&nbsp;Gao](#)<sup>6‡</sup>
+[Renrui&nbsp;Zhang](https://scholar.google.com/citations?user=YlL3xN4AAAAJ&hl=zh-CN)<sup>4</sup>,
+[Ruichuan&nbsp;An](https://scholar.google.com/citations?user=R5iSLPQAAAAJ)<sup>5</sup>,  
+[Ziyu&nbsp;Guo](https://scholar.google.com/citations?user=a6ZGNTEAAAAJ&hl=en&oi=ao)<sup>4</sup>,
+[Xiaowei&nbsp;Gao](https://scholar.google.com/citations?user=PQRJg2YAAAAJ&hl=en)<sup>6‡</sup>
 
-<sup>1</sup>DUT  <sup>2</sup>Fudan  <sup>3</sup>Tsinghua  <sup>4</sup>CUHK  <sup>5</sup>PKU  <sup>6</sup>ICL
+<sup>1</sup>DLUT  <sup>2</sup>Fudan  <sup>3</sup>Tsinghua  <sup>4</sup>CUHK  <sup>5</sup>PKU  <sup>6</sup>ICL
 
 <div class="is-size-6 publication-authors">
   <p class="footnote">
