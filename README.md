@@ -57,3 +57,14 @@ from transformers import AutoModel, AutoTokenizer
 tokenizer = AutoTokenizer.from_pretrained('GSAI-ML/LLaDA-8B-Base', trust_remote_code=True)
 model = AutoModel.from_pretrained('GSAI-ML/LLaDA-8B-Base', trust_remote_code=True, torch_dtype=torch.bfloat16)
 ```
+
+## 📄 Cite
+```
+@article{li2025adaptive,
+  title={Adaptive Classifier-Free Guidance via Dynamic Low-Confidence Masking},
+  author={Li, Pengxiang and Yan, Shilin and Tsai, Joey and Zhang, Renrui and An, Ruichuan and Guo, Ziyu and Gao, Xiaowei},
+  journal={arXiv preprint arXiv:2505.20199},
+  year={2025}
+}
+
+```
