@@ -11,7 +11,7 @@
 [Ziyu&nbsp;Guo](https://scholar.google.com/citations?user=a6ZGNTEAAAAJ&hl=en&oi=ao)<sup>4</sup>,
 [Xiaowei&nbsp;Gao](https://scholar.google.com/citations?user=PQRJg2YAAAAJ&hl=en)<sup>6‡</sup>
 
-<sup>1</sup>DLUT  <sup>2</sup>Fudan  <sup>3</sup>Tsinghua  <sup>4</sup>CUHK  <sup>5</sup>PKU  <sup>6</sup>ICL
+<sup>1</sup>DLUT  <sup>2</sup>Alibaba  <sup>3</sup>Tsinghua  <sup>4</sup>CUHK  <sup>5</sup>PKU  <sup>6</sup>ICL
 
 <div class="is-size-6 publication-authors">
   <p class="footnote">
